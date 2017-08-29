@@ -304,6 +304,13 @@ header {
     padding: 20px;
   }
 
+  .confirmText {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    padding-top: 100px;
+  }
+
 
 }
 
@@ -373,6 +380,14 @@ header {
      width: 100%;
      text-align: center;
      padding: 20px;
+     font-size: 16px;
+   }
+
+   .confirmText {
+     width: 100%;
+     text-align: center;
+     padding: 60px;
+     padding-top: 40px;
      font-size: 16px;
    }
 
