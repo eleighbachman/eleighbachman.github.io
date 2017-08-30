@@ -2,8 +2,8 @@
 if(isset($_POST['email'])) {
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "eleighbachman@gmail.com";
-    $email_subject = "Success";
+    $email_to = "cabach@msn.com";
+    $email_subject = "Wedding RSVP Success";
 
     function died($error) {
         // your error code can go here
